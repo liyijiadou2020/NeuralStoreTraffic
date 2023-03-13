@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>me-no-glasses.d4dda3dc-bce5-11ed-9df9-c03c59ac3c48.jpg</filename>
+	<path>D:\source\YOLO-PeopleTrafficCounter\data\images\me-no-glasses.d4dda3dc-bce5-11ed-9df9-c03c59ac3c48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>me</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>3</ymin>
+			<xmax>412</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>
